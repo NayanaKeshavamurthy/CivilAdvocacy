@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     MenuItem locationMenu, infoMenu;
 
-    private static final String apiURL = "https://www.googleapis.com/civicinfo/v2/representatives?key=AIzaSyBB1bhgjmHotJYFGFPH1fImJKFNrcZMzd8&address=";
+    private static final String apiURL = "https://www.googleapis.com/civicinfo/v2/representatives?key=<>="; //insert your api key instead of <>
 
 
     @SuppressLint("SetTextI18n")
