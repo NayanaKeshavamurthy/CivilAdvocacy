@@ -29,7 +29,7 @@ To use the Google Civic Information API, you need to obtain an API key. Follow t
 3. Navigate to the "APIs & Services" > "Credentials" section.
 4. Click on "Create Credentials" and select "API Key".
 5. Copy your API key.
-6. 
+   
 ## Application Behavior Diagrams
 
 ### 1. Main Activity
